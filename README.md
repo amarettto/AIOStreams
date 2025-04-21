@@ -11,7 +11,7 @@
   - [Cloudflare Workers](#cloudflare-workers)
   - [ElfHosted](#elfhosted-paid)
   - [Heroku](#heroku-paid)
-  - [Docker](#docker)
+  - [Docker](#docker) 
   - [From Source](#from-source)
 - [Configuring](#configuring)
   - [Environment Variables](#environment-variables)
